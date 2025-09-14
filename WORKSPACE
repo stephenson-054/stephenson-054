@@ -65,28 +65,3 @@
   </html>
 
 
-h1{
-  text-align:center;
-  font-size:50px;
-  background-color:dimgrey;
-}
-h2{
-  color:blue;
-}
-nav{
-  background-color:#fff;
-  margin:40px;
-  border-radius:20px;
-}
-nav ul li{
-  
-  list-style:none;
-  display:inline-block;
-  margin:15px;
-  border:1px solid;
-  border-radius:20px;
-  padding:5px;
-}
-nav ul li a{
-  text-decoration:none;
-}
